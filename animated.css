@@ -1,5 +1,6 @@
 .animate.stretch {
   animation: stretched 1s ease-in forwards;
+  transform: scale(1, 1.5);
 }
 @keyframes stretched {
   
